@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 # Generated files
-windows_position.txt
+window_position.txt
 
 #Mac OS
 .DS_Store
