@@ -1,7 +1,7 @@
 pyaudio
 deepl
 SpeechRecognition
---extra-index-url https://download.pytorch.org/whl/cu116
 torch
+webrtcvad
 pydub
 git+https://github.com/openai/whisper.git
